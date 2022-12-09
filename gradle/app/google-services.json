@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691940061358",
+    "project_id": "switchorditch-3a6f8",
+    "storage_bucket": "switchorditch-3a6f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691940061358:android:92c4d40ab5286b9ee5bd3f",
+        "android_client_info": {
+          "package_name": "com.example.switchorditch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691940061358-fqq0nfpf81knlnrlj4s28pbk3f0b0t1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDluYUTf0tonL4lHcKEnztmj55r7xlPmgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691940061358-fqq0nfpf81knlnrlj4s28pbk3f0b0t1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
